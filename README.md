@@ -1,4 +1,4 @@
-# Super-Store-data-analysis-dashboard
+## Super-Store-data-analysis-dashboard
 
 ### **Overview of Superstore Data Analysis Dashboard**
 
